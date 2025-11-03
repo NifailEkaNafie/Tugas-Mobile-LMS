@@ -1,5 +1,9 @@
 # tugasmobile
 
+Nifail Eka Nafie
+202310370311344
+Pemrograman Mobile D
+
 A new Flutter project.
 
 ## Getting Started
